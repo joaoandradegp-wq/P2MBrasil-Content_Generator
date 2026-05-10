@@ -1,4 +1,4 @@
-<h1 align="center">🧾 BBCode Layout Generator</h1>
+<h1 align="center">🧾 P2MBrasil Content Generator</h1>
 
 <p align="center">
 Gerador de código BBCode para criação de posts completos em fóruns (Categoria: Filmes).
@@ -14,7 +14,7 @@ Gerador de código BBCode para criação de posts completos em fóruns (Categori
 
 ## 📌 Sobre
 
-O **BBCode Layout Generator 2.0 Beta** é uma aplicação desenvolvida em PHP para automatizar a criação de posts completos em fóruns, com foco na categoria **Filmes**.
+O **P2MBrasil Content Generator** é uma aplicação desenvolvida em PHP para automatizar a criação de posts completos em fóruns, com foco na categoria **Filmes**.
 
 O sistema foi projetado para o ambiente do **P2MBRASIL.COM**, onde era necessário padronizar publicações utilizando **BBCode com suporte a HTML ([dohtml])**.
 
